@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 
-mongoose.connect('mongodb://localhost:27017/Emp-api', {
+mongoose.connect('mongodb+srv://ranjan1:TjW1c4znKhEta2UO@cluster0.u4idw.mongodb.net/Emp-api', {
 
     
     useNewUrlParser: true,
