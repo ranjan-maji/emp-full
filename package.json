@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   
-    "start": "app.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node src/app.js"
   },
   "author": "Ranjan",
   "license": "ISC",
